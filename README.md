@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://crystgoodwin.github.io/product-preview-card/)
+- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Live Site URL: [Live site](https://crystgoodwin.github.io/product-preview-card/)
 
 ### Built with
 
@@ -39,6 +39,6 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [Crystal Goodwin](https://github.com/crystgoodwin/)
+- GitHub - [crystgoodwin](https://github.com/crystgoodwin/)
 - Frontend Mentor - [@crystgoodwin](https://www.frontendmentor.io/profile/crystgoodwin)
 - Twitter - [@crystaltgood](https://www.twitter.com/crystaltgood)
